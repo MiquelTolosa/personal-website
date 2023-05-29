@@ -3326,3 +3326,16 @@ input, select, textarea {
 			}
 
 		}
+
+	.full-width-img-cont {
+		padding-bottom: 40px;
+	}
+
+	.w100pc{
+		width:100%;
+	}
+
+	.w80pc{
+		width:80%;
+		display: inline-block !important;
+	}
