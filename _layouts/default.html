@@ -1,0 +1,54 @@
+---
+layout: default
+title: Miquel Tolosa's Website
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+                            {% if page.type != "home" %}
+                                {% include back_arrow.html %}
+                            {% endif %}
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+						</div>
+					</header>
+				
+				{% include menu.html %}
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							{{ content }}
+						</div>
+					</div>
+
+				{% include footer.html %}
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
