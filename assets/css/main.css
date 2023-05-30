@@ -3339,3 +3339,20 @@ input, select, textarea {
 		width:80%;
 		display: inline-block !important;
 	}
+
+	.image-container {
+		display: flex;
+		justify-content: center; 
+		gap: 20px;
+		padding-bottom: 25px;
+	}
+	
+	.image-column {
+		flex: 1;
+		text-align: center;
+	}
+	
+	.image-column img {
+		max-width: 100%; 
+		height: auto;
+	}	
