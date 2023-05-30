@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "A 10 years startup roller coster - Part 1"
+date:   2023-05-29 08:04:01 +0200
+categories: monkingme offbeat
+---
+
+Driven by a sequence of blunders, successes, and lessons, this narrative serves as my unmasking of the complexity of launching a startup. From the essence of team building to the gut-wrenching moments when we thought we were doomed, through the importance of a robust support network to negotiations with titans of the music industry, I'll infuse the tales with learned lessons and practical guidance for those pondering the entrepreneurial journey.
+
+One August day, our app was permanently yanked from the Play Store without warning, with a copyright infringement as a bonus. After investing over a year in coding it (yes, we discovered the Lean methodology later) and acquiring our first thousands of users, we were left with nothing.
+
+It's been months since I've encountered this kind of situation since I closed the company. I've had time to reflect on everything that transpired and what I've learned. If you're an entrepreneur or considering becoming one, one of the aims of this narrative is to share valuable lessons I wish I'd known.
+
+Running a startup for so long isn't conventional. The ups and downs of a roller coaster built over 10 years offer a lot to recount and a thrilling ride. So, strap in and hold on tight!
+
+Everything begins at 18 years old. I pirate music, as most Spanish students do at the time. I complain to the Minister of Culture about the government's approach to piracy and write a letter that gets published in La Vanguardia. I've been mulling over an alternative to download songs for free legally.
+
+MonkingMe is born.
+
+"Were you high when choosing that name?" - was one of the first questions an investment fund asked me during a Sónar, about seven years later. Before delving into some extravagant experiences with investors, let's rewind to the origins: I'm studying computer engineering at Pompeu Fabra and I needed a logo for the project. I ended up finding my future partner and co-founder for over a decade.
+
+<div class="align-center full-width-img">
+    <span class="image"><img  style="width: 100%;" src="/images/raul_miki.jpg" alt=""/></span>
+</div>
+
+Initially, we split 50-50%. Later, I realized that coding the platform will carry more weight. We adjusted the percentages and persuaded the smartest coder in the class to join us. He would fall under the category of gifted individuals who skip grades in elementary school and graduate with honors.
+
+Now we are a trio.
+
+We took over a room at the university, quite literally stamped a monkey on the wall. We claimed it as our own and spent hours and hours coding the first version. After several sleepless nights, we completed the first version and celebrated it grandly. I'll never forget the party we threw at one of Barcelona's top nightclubs, where we distributed t-shirts and celebrated the launch of the first music platform to download music legally for free.
+
+Beyond technical complexities, which we were able to solve, we started realizing that our main challenge would be persuading the music industry. With no prior contacts, we had to figure out how to get record labels to lend us their catalog. With imagination and eagerness, I managed to get one of the most relevant record labels in Catalonia interested in us. Gradually, we convinced local artists, such as Txarango (to whom I give a thousand thanks for trusting us).
+
+Before the Android app was removed in the middle of August, there was a sweet moment: Raul and I managed to secure an investment in Sant Cugat. We were overjoyed when we finished the meeting and for the first time, someone external had faith in us with a monetary contribution. It wasn't a large amount of money and the valuation was low, but at that moment, €30,000 seemed like a fortune to us. The investors were well connected with the music industry and we struck a deal. They were the ones who would invite us to summer barbecues every year and invest in future funding rounds. They were also the first euros of the €500,000 we ended up raising from business angels and public funding throughout our startup life.
+
+While we were busy improving the app and trying to convince record labels, the first existential challenge that threatened the survival of the startup emerged. One August day, we woke up to a lawsuit from Google and our app vanished from the Play Store. We couldn't get in touch with anyone, the action was irreversible, and Google's only advice to us was to publish another app, with a different name and project, and start over from scratch.
+
+[TO BE CONTINUED]
+
+The ride isn't over yet. This was merely the beginning, and the twists and turns that followed were even more unpredictable.
+
+In the next chapter, we'll delve into how we rebounded from the Google Play setback, navigated the music industry's labyrinth, and continued to build on our vision. So, if you're up for more tales from the trenches of the startup world, don't miss what comes next. Stay tuned!
+
