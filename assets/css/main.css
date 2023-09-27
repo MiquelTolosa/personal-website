@@ -3327,6 +3327,11 @@ input, select, textarea {
 		padding-bottom: 40px;
 	}
 
+	.w80pcimg{
+		width: 80%;
+		padding-left: 10%;
+		padding-bottom: 25px;
+	}
 	.w100pc{
 		width:100%;
 	}
@@ -3351,4 +3356,23 @@ input, select, textarea {
 	.image-column img {
 		max-width: 100%; 
 		height: auto;
-	}	
+	}
+
+	.footnote {
+		text-align: right;
+		font-size: 15px;
+	}
+
+	.button-container {
+		text-align: right;
+  	}
+
+	.button-container .right-btn .button {
+		display: inline-block;
+	}
+	  
+	  
+	  
+	  
+	  
+	  
